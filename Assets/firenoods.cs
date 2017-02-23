@@ -10,16 +10,19 @@ public class firenoods : MonoBehaviour {
     void Start()
     {
         Capsule = GameObject.Find("firey");
+		hothead = GameObject.Find ("hothead");
         Capsule.SetActive(false);
         hothead.SetActive(false);
     }
-    void OnTriggerStay(Collider obj)
+    void OnTriggerEnter(Collider obj)
     {
+
         if (obj.CompareTag("noodle2"))
-        {
+		{
             Capsule.SetActive(true);
             hothead.SetActive(true);
-        }
+		}
+		Destroy (obj);
     }
 
 }
