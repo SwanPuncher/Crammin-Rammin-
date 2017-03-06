@@ -74,11 +74,12 @@
   <ItemGroup>
     <Compile Include="Assets\Callback.cs" />
     <Compile Include="Assets\Catch.cs" />
-    <Compile Include="Assets\ClickedMoveToPosition.cs" />
     <Compile Include="Assets\Eating.cs" />
     <Compile Include="Assets\Messenger.cs" />
     <Compile Include="Assets\Move.cs" />
+    <Compile Include="Assets\StartButton.cs" />
     <Compile Include="Assets\TouchNoodle.cs" />
+    <Compile Include="Assets\TouchToMoveGO.cs" />
     <Compile Include="Assets\cursor.cs" />
     <Compile Include="Assets\firenoods.cs" />
     <Compile Include="Assets\noodles.cs" />

@@ -1,0 +1,15 @@
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_obj\Debug\Crammin-Rammin-.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\sean\Documents\CRP\Crammin-Rammin-\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
